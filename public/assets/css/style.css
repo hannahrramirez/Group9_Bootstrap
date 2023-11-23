@@ -13,3 +13,74 @@ h1 {
 a {
   text-decoration: none !important;
 }
+
+
+.btn-card:hover div{
+    border: 1px solid #3751FF !important;
+    cursor: pointer;
+  }
+  
+  .btn-card:hover p {
+    color: #3751FF !important;
+  }
+  
+  .avatar {
+    width: 44px;
+    height: 44px;
+    border-radius: 100%;
+  }
+  
+  ul.navbar-nav.ms-auto.mb-2.mb-lg-0 {
+    display: flex;
+    flex-direction: row;
+  }
+  
+  .nav-item {
+    margin-right: 20px;
+  }
+  
+  .hover-nav:hover {
+    background-color: #3f4049;
+  }
+  
+  .hover-nav:hover p {
+    color: #DDE2FF;
+  }
+  
+  .logo {
+    margin-right: 10px;
+  }
+  
+  .dashboard {
+    font-size: 80%;
+    display: contents;
+  }
+  
+  .dashboard-kit {
+    margin-left: 8px;
+  }
+  
+  .overview {
+    background: #9FA2B4;
+  }
+  
+  .trend-row {
+    display: flex;
+    padding: 10 10 10 10;
+    padding: 2%;
+  
+  }
+  
+  .graph {
+    display: flex;
+    align-items: stretch;
+    flex-direction: column;
+    padding: 5%;
+  }
+  
+  .card-body {
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+    width: 100%;
+  }
