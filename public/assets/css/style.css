@@ -1,0 +1,15 @@
+/* MULISH FONT */
+@import url('https://fonts.googleapis.com/css2?family=Mulish:wght@400;600;700&display=swap');
+
+body {
+  font-family: 'Mulish', sans-serif !important;
+  background-color: #F7F8FC !important;
+}
+
+h1 {
+  margin-bottom: 20%;
+}
+
+a {
+  text-decoration: none !important;
+}
